@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajaz Ahmed</h1>
 <p align="left"> <a href="https://twitter.com/ajansari95" target="blank"><img src="https://img.shields.io/twitter/follow/ajansari95?logo=twitter&style=for-the-badge" alt="ajansari95" /></a> </p>
 
-- 🔭 I’m currently working at [@persistenceOne](https://persistence.one)
 
 - 🌱 I’m currently learning **kubernetes, rust, cosmos**
 
