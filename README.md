@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **go, python, blockchain**
 
-- 📫 How to reach me **ajansari9585@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
