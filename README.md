@@ -9,7 +9,6 @@
 - 🌱 **Learning** zksnarks, agentic AI
 - 🛠 **Open source** Contributor across the Cosmos ecosystem
 - 💡 **Interests** Protocol engineering, distributed consensus, performance tuning
-- 📍 **Location** Dubai
 
 ## Tech
 
